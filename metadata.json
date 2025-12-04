@@ -1,0 +1,5 @@
+{
+  "name": "StoryTime Magic",
+  "description": "An interactive storybook creator for kids that writes stories, illustrates them with high-quality AI images, and reads them aloud.",
+  "requestFramePermissions": []
+}
